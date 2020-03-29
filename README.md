@@ -14,16 +14,24 @@ Using just SMS, now students will be able to:
 
 **1. Get subject related search results** 
        (Example: "Search who is Mahatma Gandhi", "search how many inches in a foot?")
+
 **2. Get help in solving math problems**
        (Example: "Solve 2x+4=3")
+
 **3. Get News headlines to stay up to date with current affairs**
        (Example: "Current Affairs please")
+
 **4. Get facts to satiate their inquisitiveness**
        (Example: "Get me a space fact")
+
 **5. Get language related answers when learning new languages** 
       (Example: "Translate I am here in Hindi", "Define Metamorphosis", "Example sentence using the word trial", "Word of the day")
-**6. Get instructions on precautionary actions from the Coronavirus** (Example: "Suggest some precautions for Corona")
-**7. Get Coronavirus stats via SMS** (Example: "Tell me the recent Corona stats")
+
+**6. Get instructions on precautionary actions from the Coronavirus** 
+      (Example: "Suggest some precautions for Corona")
+
+**7. Get Coronavirus stats via SMS** 
+      (Example: "Tell me the recent Corona stats")
 
 The student receives answers via SMS. Clean. Simple. Efficient.
 No need for internet to continue studying now!
