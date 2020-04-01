@@ -40,7 +40,7 @@ No need for internet to continue studying now!
 
 We used Twilio to setup the SMS service, and Dialogflow for intent extraction. Next up, we hooked up each intent with relevant APIs to answer the students question in the best possible manner. The Query results are then sent to the student via Twilio. We have used a wide range of APIs to best cater to student quries such as DuckDuckGo, NewsAPI.
 
-![Architecture](C:\Users\diptarkbose\Desktop\arch.png)
+![Architecture](https://ibb.co/DD0X6Hz)
 
 ## Challenges we ran into
 
